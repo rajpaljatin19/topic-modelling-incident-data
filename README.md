@@ -22,8 +22,8 @@ lda.html has been generated using this process which can be further rendered as 
 Usage notes:
 
 - Install nltk, gensim, numpy, pandas, pyldavis, matplotlib, pyLDAvis.gensim
-- git clone <repo>
-- cd <repo>
+- git clone https://github.com/rajpaljatin19/topic-modelling-incident-data.git
+- cd topic-modelling-incident-data
 - python runLDA.py
 post this step you would see lda.html file would be generated
 - ls -ld lda.html
