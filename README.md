@@ -19,6 +19,9 @@ modeling-visualization-how-to-present-results-Ida-models/)
 
 lda.html has been generated using this process which can be further rendered as needed.
 
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/32235493/162236191-a0e2770a-eb6c-47e4-ad94-bc0a825afd40.png">
+
+
 Usage notes:
 
 - Install nltk, gensim, numpy, pandas, pyldavis, matplotlib, pyLDAvis.gensim
@@ -27,3 +30,4 @@ Usage notes:
 - python runLDA.py
 post this step you would see lda.html file would be generated
 - ls -ld lda.html
+
