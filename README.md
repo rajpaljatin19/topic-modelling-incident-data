@@ -6,12 +6,17 @@ Process involves:
 • Tokenization: Split the text into sentences and the sentences into words. Lowercase the words and remove punctuation.
 
 • Stopwords (the, a, an, in) removal.
+
       Can listening be exhausting -> Listen
+      
       I like reading so I read-> Like, Reading, Read
+      
       
 • Lemmatization & Stemming: Process of reducing the different forms of a word to one single form.
 
+
 For doing Topic Modelling:
+
 • LDA (Latent Dirichlet Allocation) statistical model to be used.
 
 • Gensim library to be used for running DA (https://github.com/RaRe-Technologies/gensim)
